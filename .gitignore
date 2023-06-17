@@ -89,3 +89,6 @@ typings/
 
 # pkg bundle output
 out/
+
+# tsc out
+dist/
