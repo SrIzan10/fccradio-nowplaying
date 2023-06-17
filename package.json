@@ -1,0 +1,17 @@
+{
+  "name": "fccradio-nowplaying",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SrIzan10/fccradio-nowplaying.git",
+  "author": "SrIzan10 <66965250+SrIzan10@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "@types/ws": "^8.5.5",
+    "typescript": "^5.1.3"
+  },
+  "dependencies": {
+    "colorette": "^2.0.20",
+    "ws": "^8.13.0"
+  }
+}
